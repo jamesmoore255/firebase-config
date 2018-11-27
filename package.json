@@ -1,0 +1,11 @@
+{
+  "name": "@jamesmoore255/firebase-config",
+  "version": "0.0.1",
+  "description": "Default firebase config",
+  "main": "index.js",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamesmoore255/firebase-config.git"
+  }
+}
